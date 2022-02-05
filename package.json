@@ -1,0 +1,14 @@
+{
+  "name": "com.aadebdeb.hdrp.uniformsky",
+  "version": "1.0.0",
+  "displayName": "HDRP Uniform Sky",
+  "description": "Uniformally colored sky for HDRP volume.",
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Simple",
+      "description": "Simple sample of Uniform Sky",
+      "path": "Samples~/Simple"
+    }
+  ]
+}
